@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#F4F6F8">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¿Cómo usarás este celular?"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#0F1B2D" />
+
+    <Button
+        android:id="@+id/btnPropietario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Propietario (celular A)" />
+
+    <Button
+        android:id="@+id/btnCerradura"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerradura (celular B)" />
+
+    <Button
+        android:id="@+id/btnSalir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerrar sesión" />
+</LinearLayout>

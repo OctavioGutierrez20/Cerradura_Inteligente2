@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "595276943085",
+    "firebase_url": "https://cerradurainteligente-70ad6-default-rtdb.firebaseio.com",
+    "project_id": "cerradurainteligente-70ad6",
+    "storage_bucket": "cerradurainteligente-70ad6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595276943085:android:d68f7cf36534ad7b9b46e4",
+        "android_client_info": {
+          "package_name": "com.example.cerradura_inteligente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIl9YWulFuwVbG4NJ_voDyTNwZqBY3Xgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
